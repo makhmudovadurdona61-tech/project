@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sayt manzili:
+Sitemap: https://learnenglish.vercel.app/sitemap.xml
